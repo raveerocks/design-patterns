@@ -48,7 +48,7 @@ The designers must satisfy many competing constraints and requirements.
 The designers must seek certain intrinsic yet unquantifiable qualities, such as elegance and extensibility.
   
 </li></ul>
-Pioneering work in this area was done by the so-called "Gang of Four". [See their seminal text on the subject: Design Patterns (Elements of Reusable Object-Oriented Software), Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, 1995]
+Pioneering work in this area was done by the so-called "Gang of Four". [See their seminal text on the subject: Design Patterns (Elements of Reusable Object-Oriented Software), Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, 1995].
 
 
 Design Patterns became a best-seller, is now regarded as a "ground-breaking" work, and the rest is history: Design patterns have been accepted as a very useful tool by the software development community at large.
