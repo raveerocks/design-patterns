@@ -3,21 +3,27 @@
 ## What are design patterns?
 
 Here are what some authors have said about design patterns:
-```
+<ul><li>
+  
 Patterns identify and specify abstractions that are above the level of single classes and instances, or of components. [Gamma, Helm, Johnson, and Vlissides, 1993]
-```
-```
+
+</li><li>
 Design patterns are recurring solutions to design problems you see over and over. [Alpert, Brown and Woolf, 1998]
-```
-```
+  
+</li><li>
+  
 A design pattern describes how objects communicate without becoming entangled in each other's data models and methods. [Cooper, 2000]
-```
-```
+  
+</li><li>
+  
 Software design patterns are schematic descriptions of solutions to recurring problems in software design. [Jia, 2003]
-```
-```
+  
+</li><li>
+  
 A design pattern is a recipe for solving a certain type of design problem that captures the high-level objects, their interactions, and their behaviors. [Wang, 2003]
-```
+  
+</li>
+</ul>
 
 ## A Brief History of Design Patterns and the "Gang of Four"
 
