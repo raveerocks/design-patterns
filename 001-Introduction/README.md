@@ -50,10 +50,10 @@ The designers must seek certain intrinsic yet unquantifiable qualities, such as 
 </li></ul>
 Pioneering work in this area was done by the so-called "Gang of Four".(Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides).
 
-
+<p>
 Design Patterns became a best-seller, is now regarded as a "ground-breaking" work, and the rest is history: Design patterns have been accepted as a very useful tool by the software development community at large.
 
-<p>
+
 Many additional patterns have been identified and described, and more appear all the time.
 
 
