@@ -60,3 +60,12 @@ Many additional patterns have been identified and described, and more appear all
 
 Reference : http://cs.smu.ca/~porter/csc/465/notes/design_patterns.html
 
+## Four Essential Elements
+
+A design pattern has four essential elements
+<ul>
+  <li>Pattern Name</li>
+  <li>Problem</li>
+  <li>Solution</li>
+  <li>Consequences</li>
+</ul>
