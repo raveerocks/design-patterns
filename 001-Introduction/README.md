@@ -58,9 +58,5 @@ Design Patterns became a best-seller, is now regarded as a "ground-breaking" wor
 Many additional patterns have been identified and described, and more appear all the time.
 
 
-In a very small way, you are familiar with a number of "mini design patterns". A very small pattern in a programming language is sometimes called an idiom. Can you think of any examples?
-
-
-
 Reference : http://cs.smu.ca/~porter/csc/465/notes/design_patterns.html
 
